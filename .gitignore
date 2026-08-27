@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+.swiftpm/
+*.xcodeproj
+Tokens
+access.json
+.env
+.env.*
+tools/MAX_SOUND_PATH.txt
+dist/

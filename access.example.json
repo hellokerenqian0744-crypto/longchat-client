@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "account": "ACCOUNT",
+      "passwordHash": "SHA256(GlassChat|account|password)",
+      "hwids": ["HWID"]
+    }
+  ]
+}
